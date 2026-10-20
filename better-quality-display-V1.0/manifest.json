@@ -1,7 +1,7 @@
 {
   "id": "better-quality-display",
   "name": "Better Quality Display",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Gubber",
   "description": "Adds Kami like Quality indicator in top right of items, also adds armor bar durability below items along with optional color sliders.",
   "api_version": "1.7",
