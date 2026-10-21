@@ -1,0 +1,18 @@
+{
+  "id": "belt-and-hand-bar",
+  "name": "Hand & Belt bar",
+  "version": "1.2.1",
+  "author": "Gubber",
+  "description": "Draggable 3-slot hand/belt HUD and optional Better Quality Display numbers.",
+  "api_version": "1.7",
+  "permissions": [
+    "item.take",
+    "widget.send"
+  ],
+  "files": [
+    "main.lua"
+  ],
+  "optional_dependencies": [
+    "better-quality-display>=1.6.0"
+  ]
+}
