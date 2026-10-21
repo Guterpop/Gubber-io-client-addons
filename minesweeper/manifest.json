@@ -1,0 +1,11 @@
+{
+  "id": "minesweeper",
+  "name": "Minesweeper",
+  "version": "1.1.2",
+  "author": "Gubber",
+  "api_version": "1.7",
+  "description": "Minesweeper function for real miners!",
+  "files": [
+    "main.lua"
+  ]
+}
