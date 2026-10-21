@@ -1,0 +1,11 @@
+{
+  "id": "better-quality-display",
+  "name": "Better Quality Display",
+  "version": "1.6.0",
+  "author": "Gubber",
+  "description": "Black-outlined quality and wear bars; shared RGB style and optional Equipment Quickbar quality display.",
+  "api_version": "1.7",
+  "files": [
+    "main.lua"
+  ]
+}
